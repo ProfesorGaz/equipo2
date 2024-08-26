@@ -1,3 +1,20 @@
-h1 {
-    color:aqua
+body{
+    background-color: darkolivegreen;
+    color: darkkhaki;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+header{
+    width: 100vw;
+    height: 12vh;
+    background-color: lavenderblush;
+
+    margin: 13 px;
+    padding: 15px;
+    border-radius: 16px;
+    border: 2px purple;
+    
 }
