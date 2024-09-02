@@ -1,0 +1,14 @@
+body{
+    background-color: darkkhaki;
+    color:darkseagreen
+}
+
+header{
+    width: 90vw;
+    height: 14vh;
+    background-color: azure;
+
+    margin: 12px;
+    padding: 15px;
+    border-radius: 15px;
+}
